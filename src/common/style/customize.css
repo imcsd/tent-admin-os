@@ -1,0 +1,19 @@
+/*!
+ * Tent Admin
+ * All customize style are written in this file.
+ * Created: 2018-10-28 15:54:44 by icsd
+ * Version: 1.0.1
+ * Last Update: 2018-11-11 14:18:09
+ */
+
+.content-wrapper > .content {
+    padding: 0 0.5rem 1rem;
+}
+
+.table-controll .form-control {
+    display: inline-block;
+}
+
+.table-footer {
+    background-color: #fff;
+}
